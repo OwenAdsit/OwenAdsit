@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OwenAdsit
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript and Wordpress theme Development
-- 💞️ I’m looking to collaborate on any web projects.
+- 🌱 I’m currently building sites with nuxt.js & netlify
 - 📫 Reach me at owenadsit@gmail.com
 
 <!---
